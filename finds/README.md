@@ -17,8 +17,13 @@ Substitute <pathname> for the desired path and <string> for the string that is b
 searched. 
 
 Example input:  "./finds -p ~/Desktop/github/miscellaneous-code -f c -s echo"
-Example output: "my_echo: an emulation of the echo program in linux: it will print 
-Example input: my_echo hello
+
+Example output: 
+
+"my_echo: an emulation of the echo program in linux: it will print 
+
+my_echo hello
+
 /Users/PGP/Desktop/github/miscellaneous-code/my_echo/my_echo.c"
 
 Author: Pablo Gutierrez
