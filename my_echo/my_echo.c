@@ -1,3 +1,15 @@
+/*
+Author: Pablo Gutierrez
+
+my_echo: an emulation of the echo program in linux: it will print 
+to the screen the argument specified to it. 
+
+Example input: my_echo hello
+
+Example output: hello
+
+*/
+
 #include<stdio.h>
 #include<string.h>
 #include<stdbool.h>
@@ -25,3 +37,5 @@ main(int argc, char *argv[]) {
 
 
 }
+
+// eof
